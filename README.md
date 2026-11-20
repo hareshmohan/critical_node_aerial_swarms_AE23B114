@@ -8,7 +8,7 @@ one-step-at-a-time pipeline (about 1.7 ms per step).
 ## Setup
     python -m pip install -r requirements.txt
 
-The dataset (about 880 MB) is not in this repository. Download it from the link in the course project
+The dataset (about 926 MB) is not in this repository. Download it from the link in the course project
 description and put `swarm_criticality_dataset_100_scenarios.csv` in the project folder.
 
 ## Run order
