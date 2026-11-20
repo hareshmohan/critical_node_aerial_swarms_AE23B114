@@ -1,0 +1,23 @@
+{
+  "train": {
+    "rows": 998064,
+    "critical_share": 0.38326500104201733
+  },
+  "val": {
+    "rows": 313396,
+    "critical_share": 0.38340629746391147
+  },
+  "test": {
+    "rows": 327706,
+    "critical_share": 0.41367567270663336
+  },
+  "train_class_weights": {
+    "n_positive": 382523,
+    "n_negative": 615541,
+    "scale_pos_weight": 1.6091607563466772,
+    "sklearn_class_weight": {
+      "0": 0.8107209755320929,
+      "1": 1.3045803781733385
+    }
+  }
+}
