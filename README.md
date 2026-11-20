@@ -1,6 +1,6 @@
 # Critical Node Detection in Aerial Swarms
 
-AE5510 course project (Problem 2), Haresh M (AE23B114), IIT Madras.
+AE5510 course project (Problem 2), Haresh M (AE23B114).
 A criticality-score predictor for aerial swarms that uses only agent position and motion:
 two-part LightGBM + GraphSAGE (radius graph built from positions) + a small stacker, with an online
 one-step-at-a-time pipeline (about 1.7 ms per step).
